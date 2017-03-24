@@ -1,0 +1,1 @@
+C:\Users\Ravi Kandel\Downloads\Compressed\Windows-universal-samples-master\Windows-universal-samples-master\Samples\OCR\cs\OCR.csproj;x64
